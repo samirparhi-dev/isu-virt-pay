@@ -1,25 +1,31 @@
 # iSupayX Payment Gateway - Engineering Challenge
 
-## 📋 Your Task
+## 📋 Problem Statement
 
-Build a **transaction processing API** for iSupayX, a payment gateway that handles UPI, credit cards, debit cards, and net banking transactions.
+Build a **transaction processing API** for iSupayX, a payment gateway that handles:
+  - UPI
+  - credit cards
+  - debit cards, and 
+  - net banking transactions. 
+  
+- The Specification is mention in `iSupayX_Specification_Document.pdf`.
 
-**Duration:** 4 hours
+- Test cases are written in `Question_Paper_iSupayX_Assessment.pdf` (page 8)
+
 **Evaluation:** Code quality + System design + Problem-solving process
 
 ---
 
-## ⚙️ Mandatory Requirements
-
-### Technology Stack
+## Technology Stack
 - ✅ **VS Code** - You must install and use VS Code and their plugins
 - ✅ **Elixir 1.14+** - Programming Language
 - ✅ **Phoenix Framework** - API-only mode
 - ✅ **SQLite** - Database (via ecto)
 - ✅  **Ecto** - for DB Simulation
 - ✅ **Git** - Version control with incremental commits
+- ✅ **Postman** - For your ease to do API testing
 
-**⚠️ IMPORTANT:** Environment setup is part of this assessment. No installation support will be provided.
+**⚠️ IMPORTANT:** Environment setup is part of this assessment.
 
 ---
 
